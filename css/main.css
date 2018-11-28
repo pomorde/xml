@@ -1,0 +1,14 @@
+body {
+	font-size: 17px;
+}
+
+.title {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+li {
+	color: gray;
+	padding-left: 5px;
+	margin-bottom: 10px;
+}
