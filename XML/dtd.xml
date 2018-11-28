@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<!DOCTYPE Каталог [ 
+<!ELEMENT Книга (Название,описание,авторы+, Датапубликации?)>
+<!ATTLIST Книга Цена CDATA>
+<!ELEMENT Название (#PCDATA)>
+<!ELEMENT Описание (#PCDATA)>
+<!ELEMENT Авторы   (автор+)>
+<!ELEMENT Автор (ФИО, Биография)>
+<!ELEMENT Биография (#PCDATA)>
+]>

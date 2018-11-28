@@ -1,0 +1,68 @@
+catalog {
+	background-color: #cccccc;
+	padding: 0;
+	margin: 0;
+	width: 930px;
+	margin: 0 auto;
+}
+
+book {
+	
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+}
+
+title {
+	color: #FF0000;
+	font-size: 20pt;
+	margin-left: 50pt;
+	margin-bottom: 5pt;
+}
+
+
+describe {
+	display: block;
+	color: #000000;
+	text-align: left;
+	font-size: 14pt;
+	margin-bottom: 5pt;
+	text-indent: 1.5em
+}
+
+author {
+	display: block;
+	color: #FF6347;
+	font-size: 18pt;
+	margin-left: 50pt;
+	margin-bottom: 5pt;
+}
+
+fio {
+	color: #0000FF;
+	font-size: 18pt;
+	margin: 5px 10px 15px 20px;
+	
+}
+
+bio {
+	display: block;
+	color: #000000;
+	font-size: 14pt;
+	margin-bottom: 5pt;
+	margin-left: 0pt;
+	text-indent: 1.5em
+}
+
+
+
+selldate {
+	background-color: #000000;
+	color: #CD5C5C;
+	display: block;
+	font-size: 16pt;
+	margin-bottom: 5pt;
+	margin-left: 60pt;
+	margin-right: 1290pt;
+}
+
